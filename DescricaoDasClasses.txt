@@ -1,22 +1,24 @@
-Cliente:
-Representação do usuário da plataforma steam.
+Cliente: Representação do usuário da plataforma steam. O usuário pode
+comprar e jogar jogos, comprar itens e criar e interagir em tópicos no
+fórum.
 
 Jogos:
 Jogo disponibilizado na plataforma para ser adquirido e/ou jogado.
 
-Carteira:
-Saldo disponível para o usuário usar com produtos na plataforma.
+Carteira: Saldo disponível para o usuário usar com produtos na
+plataforma. O saldo pode ser usado como método de pagamento para jogos
+na steam, e é a única forma de adquirir itens.
 
 Item:
 Item genérico de algum jogo disponível para troca, compra ou
 venda no mercado steam.
 
 Carrinho: Representação do(s) jogo(s) selecionado(s) pelo usuário para
-compra. Apenas os jogos entram no carrinho, o itens são debitados
+compra. Apenas os jogos entram no carrinho, os itens são debitados
 diretamente da carteira steam.
 
 Fórum:
 Área centralizadora de diversos tópicos de discussão.
 
-Tópico:
-Tópico de discussão de um assunto específico no fórum.
+Tópico: Tópico de discussão de um assunto específico no fórum. Um
+tópico pode ser criado por um usuário qualquer
