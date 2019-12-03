@@ -21,4 +21,5 @@ Fórum:
 Área centralizadora de diversos tópicos de discussão.
 
 Tópico: Tópico de discussão de um assunto específico no fórum. Um
-tópico pode ser criado por um usuário qualquer
+tópico pode ser criado por um usuário qualquer e qualquer usuário pode
+interagir nele.
